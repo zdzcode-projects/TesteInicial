@@ -1,0 +1,62 @@
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\appsettings.json
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\APITeste.exe
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\APITeste.deps.json
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\APITeste.runtimeconfig.json
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\APITeste.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\APITeste.pdb
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.csproj.AssemblyReference.cache
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.AssemblyInfoInputs.cache
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.AssemblyInfo.cs
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.csproj.CoreCompileInputs.cache
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\scopedcss\bundle\APITeste.styles.css
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.csproj.CopyComplete
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\refint\APITeste.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.pdb
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\APITeste.genruntimeconfig.cache
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\obj\Debug\net6.0\ref\APITeste.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\zdzis\OneDrive\Área de Trabalho\Teste\API\APITeste\APITeste\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\appsettings.Development.json
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\appsettings.json
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\APITeste.exe
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\APITeste.deps.json
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\APITeste.runtimeconfig.json
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\APITeste.dll
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\APITeste.pdb
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ZC\TesteInicial\API\APITeste\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.csproj.AssemblyReference.cache
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.AssemblyInfoInputs.cache
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.AssemblyInfo.cs
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.csproj.CoreCompileInputs.cache
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.MvcApplicationPartsAssemblyInfo.cs
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.MvcApplicationPartsAssemblyInfo.cache
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\staticwebassets.build.json
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\staticwebassets.development.json
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\scopedcss\bundle\APITeste.styles.css
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.csproj.CopyComplete
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.dll
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\refint\APITeste.dll
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.pdb
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\APITeste.genruntimeconfig.cache
+C:\ZC\TesteInicial\API\APITeste\obj\Debug\net6.0\ref\APITeste.dll
